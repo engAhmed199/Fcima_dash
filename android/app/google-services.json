@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "997827970609",
+    "project_id": "movie-ticket-245e4",
+    "storage_bucket": "movie-ticket-245e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997827970609:android:bdc2122dd2f900aeb17710",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997827970609-uqlsi3n0eh8ubvlap7nsjn4dkl5gi80o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYseqouB-qyGRSml6Vm0FXq9AY3YcvjJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997827970609-uqlsi3n0eh8ubvlap7nsjn4dkl5gi80o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997827970609:android:9995f66561198c1bb17710",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997827970609-uqlsi3n0eh8ubvlap7nsjn4dkl5gi80o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYseqouB-qyGRSml6Vm0FXq9AY3YcvjJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997827970609-uqlsi3n0eh8ubvlap7nsjn4dkl5gi80o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
